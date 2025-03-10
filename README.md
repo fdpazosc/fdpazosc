@@ -6,7 +6,7 @@
 🔹 Me encanta explorar nuevas tecnologías y mejorar continuamente.
 🤝 Busco colaborar en proyectos open-source y soluciones innovadoras.
 💡 Interesado en el desarrollo móvil, web y el impacto de la tecnología en la educación.
-📩 ¿Hablamos? Contáctame en [tu correo aquí].
+📩 ¿Hablamos? Contáctame en fernandodavidpazos@hotmail.es
 
 ### Proyectos destacados:
 📱 PUCEAPP → Reserva de espacios y carnet digital QR.
@@ -15,6 +15,6 @@
 🤖 RODI → Mascota interactiva con AR y hologramas.
 
 ### Encuentrame en
-💻 GitHub: github.com/fdpazosc
-🌐 Portafolio: fdpazosc.github.io
-🔗 LinkedIn: linkedin.com/in/tuperfil
+💻 GitHub: https://github.com/fdpazosc
+🌐 Portafolio: https://fdpazosc.github.io
+🔗 LinkedIn: https://linkedin.com/in/tuperfil
