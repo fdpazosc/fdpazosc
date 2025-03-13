@@ -1,4 +1,4 @@
-👋 ¡Hola! Bienvenido a mi perfil
+👋 ¡Hola!
 
 🚀 Desarrollador Full Stack & Gestor de Software apasionado por la tecnología, la innovación y la educación. Con +9 años de experiencia, he trabajado en el desarrollo de aplicaciones web y móviles, liderando proyectos en la Pontificia Universidad Católica del Ecuador (PUCE).
 
