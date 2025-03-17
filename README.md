@@ -4,7 +4,7 @@
 
 ## Sobre mi
 🔹 Me encanta explorar nuevas tecnologías y mejorar continuamente.
-🤝 Busco colaborar en proyectos open-source y soluciones innovadoras.
+🤝 Busco colaborar en proyectos y soluciones innovadoras.
 💡 Interesado en el desarrollo móvil, web y el impacto de la tecnología en la educación.
 📩 ¿Hablamos? Contáctame en fernandodavidpazos@hotmail.es
 
