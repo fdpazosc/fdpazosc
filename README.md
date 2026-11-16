@@ -17,4 +17,4 @@
 ### Encuentrame en
 💻 GitHub: https://github.com/fdpazosc
 🌐 Portafolio: https://fdpazosc.github.io
-🔗 LinkedIn: https://linkedin.com/in/tuperfil
+🔗 LinkedIn: www.linkedin.com/in/fernando-david-pazos-castillo-7a326889
